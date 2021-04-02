@@ -30,7 +30,7 @@ class SearchBar extends React.Component{
 
 const buttonStyle = {
     backgroundColor: "#d9d9d9",
-    border: "1px solid black",
+    border: "1px solid #fff",
     borderRadius: "50px",
     marginTop: "1rem",
     cursor: "pointer",
